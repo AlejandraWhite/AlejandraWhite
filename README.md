@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇺🇸_English-8B5CF6?style=for-the-badge" alt="English">
+  </a>
+  <a href="./README.es.md">
+    <img src="https://img.shields.io/badge/🇨🇴_Español-EC4899?style=for-the-badge" alt="Español">
+  </a>
+</p>
+
 # Hi there! I'm Alejandra Blanco 👋
 
 ### Full Stack Software Developer | Web & Mobile | Cloud & API Integrations
@@ -137,7 +146,10 @@ const alejandra = {
 
 A real-world cross-platform marketplace combining e-commerce, social networking, payment processing, logistics, and digital analytics.
 
-**Key features and technical contributions:**
+<details>
+<summary><b>View features and technical contributions</b></summary>
+
+<br>
 
 - Full Stack development of mobile and web applications.
 - Custom REST APIs and PostgreSQL database management.
@@ -152,6 +164,7 @@ A real-world cross-platform marketplace combining e-commerce, social networking,
 - Push notifications and geolocation services.
 - Digital analytics and conversion tracking.
 - Production deployment, maintenance, and continuous improvement.
+</details>
 
 **Explore the platform:**
 
