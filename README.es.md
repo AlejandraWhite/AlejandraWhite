@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/🇺🇸_English-8B5CF6?style=for-the-badge" alt="English">
-  </a>
-  <a href="./README.es.md">
-    <img src="https://img.shields.io/badge/🇨🇴_Español-EC4899?style=for-the-badge" alt="Español">
-  </a>
-</p>
 
  <p align="center">
   <a href="./README.md">
