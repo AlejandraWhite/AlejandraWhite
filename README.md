@@ -7,7 +7,19 @@ I turn ideas into technology, challenges into opportunities, and complex problem
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portafolio-psi-tan.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandraWhite)
 
+
+<p align="center">
+  <img
+    src="./assets/princess-developer.png"
+    width="100%"
+    alt="Princess Software Developer"
+  />
+</p>
 ---
+
+<h3 align="center">
+  👑 Elegance in design. Excellence in code. 💜
+</h3>
 
 ## 👩‍💻 About Me
 
@@ -168,13 +180,16 @@ Beyond writing code, my goal is to build products that deliver meaningful value 
 - Approach every challenge with curiosity and determination.
 - Take ownership of the quality of every deliverable.
 
----
+## 💎 What I Bring to Every Project
 
-## 📊 GitHub Activity
+- **End-to-End Development:** From initial concept and architecture to production deployment.
+- **Business-Oriented Solutions:** Technology designed to address real business needs.
+- **Technical Versatility:** Web, mobile, backend, cloud infrastructure, and third-party integrations.
+- **Ownership & Commitment:** Taking responsibility for the quality of every deliverable.
+- **Problem-Solving Mindset:** Turning complex challenges into practical and effective solutions.
+- **Passion for Excellence:** Building software with dedication, creativity, and attention to detail.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandraWhite&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraWhite&layout=compact&theme=transparent&hide_border=true)
+> I don't just write code. I build solutions with purpose, passion, and a commitment to excellence.
 
 ---
 
